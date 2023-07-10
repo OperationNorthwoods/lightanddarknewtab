@@ -1,5 +1,5 @@
 # Light and Dark New Tab
-![image](https://github.com//OperationNorthwoods/lightanddarknewtab/blob/master/lightanddarknewtab_github_screen_ani.gif)
+![image](https://github.com/OperationNorthwoods/lightanddarknewtab/blob/master/lightanddarknewtab_github_screen_ani.gif)
 A minimalistic grey and white new tab page for Google Chrome. Changes automatically based on device theme. No external network requests. No analytics. No tracking. No bullshit.
 
 ### What?
