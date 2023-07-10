@@ -18,8 +18,7 @@ Some new tab page extensions can be slow to launch if system is low on resources
 
 ### Changelog
 * v2.0 - Added a light mode that changes depending on your device's light/dark mode settings.
-
-** Forked from [DannyDanny on GitHub](https://github.com/dandydanny/darknewtab/) ** 
+* v1.3 - Forked from [DannyDanny on GitHub](https://github.com/dandydanny/darknewtab/) 
 
 ### About
 Lucas is a novice developer. After recently getting into light mode, he grew frustrated the grey color of "Dark New Tab". So he forked DannyDanny's [original](https://chrome.google.com/webstore/detail/dark-new-tab/mnjmegebbljjhpljjfjmkhgmokpmdbpo?hl=en-US&gl=US) Dark New Tab extension and added a light mode. 
