@@ -18,6 +18,7 @@ Some new tab page extensions can be slow to launch if system is low on resources
 
 ### Changelog
 * v2.0 - Added a light mode that changes depending on your device's light/dark mode settings.
+
 ** Forked from [DannyDanny on GitHub](https://github.com/dandydanny/darknewtab/) ** 
 
 ### About
