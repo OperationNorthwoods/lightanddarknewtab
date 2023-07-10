@@ -1,0 +1,27 @@
+Privacy Policy for "Light and Dark New Tab" Extension
+This privacy policy governs your use of the software application "Light and Dark New Tab" for Google Chrome web browser.
+
+What information does the Application obtain and how is it used?
+User Provided Information
+The Application does not require you to provide any information and does not collect any information about you or your usage of this Application.
+
+Automatically Collected Information
+In addition, the Application does not collect any information automatically, including, but not limited to, your browser type, browser language, and the date and time of your request.
+
+Does the Application collect precise real time location information of the device?
+This Application does not collect precise information about the location of your computer or device.
+
+Are third parties involved in our privacy practices?
+We may employ and contract with third parties to perform certain tasks on our behalf. However, under no circumstances will these third parties have access to your information. Our agents do not have any right to use the information we share with them beyond what is necessary to assist us.
+
+What are my opt-out rights?
+Since the Application does not collect any information from users, we do not provide any opt-out rights with respect to the Application.
+
+Changes
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here. You are advised to consult this Privacy Policy regularly for any changes.
+
+Your Consent
+By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us.
+
+Contact us
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us using the issues or discussions tab on this GitHub repo.
