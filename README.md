@@ -14,7 +14,7 @@ Some new tab page extensions can be slow to launch if system is low on resources
 1. I want my new tab page to match my devie's current theme
 
 ### Where?
-[Get it from the Chrome Web Store](google.com/404)**LINK WILL BE AVAILABLE SOON, CURRENTLY PENDING APPROVAL BY GOOGLE**
+[Get it from the Chrome Web Store](https://chrome.google.com/webstore/detail/light-and-dark-new-tab/kdkfnbfaebfimmmmlendmkemohpoefim)
 
 ### Changelog
 * v2.0 - Added a light mode that changes depending on your device's light/dark mode settings.
